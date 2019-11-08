@@ -22,7 +22,7 @@ Response -
 ```
 
 ``` GET - /{string} ```   
-Response -  
+Response -  ``` http://localhost:8080/run%20fit```
 ```
 {
     "data": {
