@@ -2,7 +2,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-go.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-responsibility.svg)](https://forthebadge.com)   
-Developed a backend using Go for the JS Version of the same. JS Version - https://codepen.io/rstacruz/full/wJyaJb
+Developed a backend using Go for the JS Version of the same. JS Version - https://codepen.io/rstacruz/full/wJyaJb    
 startup-name-generator in Go using go-gin.    
 
 ## Instructions 
